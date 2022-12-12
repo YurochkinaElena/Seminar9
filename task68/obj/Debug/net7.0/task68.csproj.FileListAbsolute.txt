@@ -1,0 +1,15 @@
+D:\5111-2\Я\GeekBrains\C#\Seminar9\task68\bin\Debug\net7.0\task68.exe
+D:\5111-2\Я\GeekBrains\C#\Seminar9\task68\bin\Debug\net7.0\task68.deps.json
+D:\5111-2\Я\GeekBrains\C#\Seminar9\task68\bin\Debug\net7.0\task68.runtimeconfig.json
+D:\5111-2\Я\GeekBrains\C#\Seminar9\task68\bin\Debug\net7.0\task68.dll
+D:\5111-2\Я\GeekBrains\C#\Seminar9\task68\bin\Debug\net7.0\task68.pdb
+D:\5111-2\Я\GeekBrains\C#\Seminar9\task68\obj\Debug\net7.0\task68.csproj.AssemblyReference.cache
+D:\5111-2\Я\GeekBrains\C#\Seminar9\task68\obj\Debug\net7.0\task68.GeneratedMSBuildEditorConfig.editorconfig
+D:\5111-2\Я\GeekBrains\C#\Seminar9\task68\obj\Debug\net7.0\task68.AssemblyInfoInputs.cache
+D:\5111-2\Я\GeekBrains\C#\Seminar9\task68\obj\Debug\net7.0\task68.AssemblyInfo.cs
+D:\5111-2\Я\GeekBrains\C#\Seminar9\task68\obj\Debug\net7.0\task68.csproj.CoreCompileInputs.cache
+D:\5111-2\Я\GeekBrains\C#\Seminar9\task68\obj\Debug\net7.0\task68.dll
+D:\5111-2\Я\GeekBrains\C#\Seminar9\task68\obj\Debug\net7.0\refint\task68.dll
+D:\5111-2\Я\GeekBrains\C#\Seminar9\task68\obj\Debug\net7.0\task68.pdb
+D:\5111-2\Я\GeekBrains\C#\Seminar9\task68\obj\Debug\net7.0\task68.genruntimeconfig.cache
+D:\5111-2\Я\GeekBrains\C#\Seminar9\task68\obj\Debug\net7.0\ref\task68.dll
